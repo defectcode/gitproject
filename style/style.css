@@ -1,0 +1,40 @@
+body {
+    background-color: #ffffff;
+    color: #000000;
+  }
+
+.navbar{
+    background-color: #ffd13a;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #dc3545;
+}
+
+.navbar-light .navbar-toggler-icon {
+  background-color: #dc3545;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-primary:hover {
+   color: #fff;
+   background-color: #c82333;
+   border-color: #bd2130;
+}
+
+.btn-danger {
+  color: #fff;
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+
+.btn-danger:hover {
+  color: #fff;
+  background-color: #c82333;
+  border-color: #bd2130;
+}
